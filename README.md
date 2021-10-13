@@ -1,5 +1,6 @@
 # zst436
 Zst436
-pip install brotli
+
+pip install brotlicffi
 Or
-py -m pip install brotli
+py -m pip install brotlicffi
